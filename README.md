@@ -12,7 +12,7 @@ In replay_attack.py several libraries have been used, such as pyshark, request, 
    pip install json
 ```
 To use this python script you must input the path of the pcap file and the number of the POST request to be replicate. 
-```console
+```shell
    python replay_attack.py pcap_path request_number
 ```
 
